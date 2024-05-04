@@ -1,0 +1,16 @@
+@media only screen and (max-width: 728px) {
+    .about h1 {
+        font-size: 15px;
+
+    }
+
+    .about p {
+        font-size: 10px;
+    }
+
+    .about {
+        padding-top: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}

@@ -1,0 +1,30 @@
+@media screen and (max-width: 728px) {
+    .logo {
+        width: 30px;
+        height: 30px;
+        margin-right: auto;
+    }
+
+    .menu_bar {
+        display: flex;
+        padding-left: 10px;
+        padding-right: 10px;
+        justify-content: right;
+    }
+
+    .menu_bar ul {
+        display: flex;
+    }
+
+    .menu_bar li {
+        text-decoration: none;
+        list-style: none;
+        padding-left: 10px;
+    }
+
+    .menu_bar a {
+        text-decoration: none;
+        color: #050A30;
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,16 @@
+@media only screen and (min-width: 728px) {
+    .body {
+        display: flex;
+        justify-content: center;
+        margin: 50px;
+        height: 100vh;
+    }
+
+    .container {
+        background-color: #F4F6FC;
+        max-width: 1200px;
+        margin: auto;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    }
+
+}
