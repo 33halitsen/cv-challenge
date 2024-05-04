@@ -1,0 +1,33 @@
+@media only screen and (max-width: 728px) {
+    .skills {
+        padding-bottom: 30px;
+        padding-left: 15px;
+    }
+
+    .skills h1 {
+        font-size: 15px;
+    }
+
+    .container_1 {
+        display: flex;
+    }
+
+    .container_2 {
+        padding-right: 50px;
+    }
+
+    .skill {
+        display: flex;
+        align-items: center;
+    }
+
+    .skill img {
+        width: 20px;
+        height: 20px;
+        padding-right: 15px;
+    }
+
+    .skill p {
+        font-size: 10px;
+    }
+}
