@@ -1,6 +1,6 @@
 CV Challenge, [LuNiZz (Can Değer)](https://github.com/LuNiZz) tarafından geliştirilmiştir.
 
-Yarışma dökümantasyonuna gitmek için [tıklayın](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/CV_Challenge.md)
+challenge dökümantasyonuna gitmek için [tıklayın](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/CV_Challenge.md)
 
 Bulut Bilişim Becerilerini Geliştirme Challenge'ı
 
