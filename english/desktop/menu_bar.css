@@ -1,7 +1,6 @@
 @media only screen and (min-width: 728px) {
     .logo {
         width: 60px;
-        margin-right: auto;
     }
 
     .menu_bar {
@@ -25,5 +24,9 @@
         text-decoration: none;
         color: #050A30;
         font-size: 22px;
+    }
+
+    .logo-link {
+        margin-right: auto;
     }
 }
