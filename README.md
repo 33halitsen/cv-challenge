@@ -1,4 +1,4 @@
-CV Challenge, [LuNiZz (Can Değer)](https://github.com/LuNiZz) tarafından geliştirilmiştir.
+CV Challenge, [Can Değer (LuNiZz)](https://github.com/LuNiZz) tarafından geliştirilmiştir.
 
 challenge dökümantasyonuna gitmek için [tıklayın](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/CV_Challenge.md)
 
@@ -14,4 +14,4 @@ CV Challenge, bulut bilişim alanında kendini geliştirmeyi hedefleyenler için
 
 bundan sonra challenge'ın diğer adımları için geliştirmeye devam edeceğim.
 
-Web siteme ulaşmak için [tıklayabilirsiniz](https://icy-field-0e3617600.5.azurestaticapps.net)
+Web siteme ulaşmak için [tıklayabilirsiniz](http://cv-challenge.s3-website.eu-north-1.amazonaws.com/)
