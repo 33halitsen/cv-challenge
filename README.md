@@ -14,4 +14,4 @@ CV Challenge, bulut bilişim alanında kendini geliştirmeyi hedefleyenler için
 
 bundan sonra challenge'ın diğer adımları için geliştirmeye devam edeceğim.
 
-Web siteme ulaşmak için [tıklayabilirsiniz](http://cv-challenge.s3-website.eu-north-1.amazonaws.com/)
+Web siteme ulaşmak için [halitsen.online](halitsen.online)
