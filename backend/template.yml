@@ -1,0 +1,21 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: Visitor counter Lambda
+
+Resources:
+  VisitorCounterFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: visitorcounter
+      Handler: VisitorCounter.lambda_handler
+      CodeUri: visitorcounter/
+      MemorySize: 128
+
+Resources:
+  VisitorCounterFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: visitorcounter
+      Handler: VisitorCounter_English.lambda_handler
+      CodeUri: visitorcounter/
+      MemorySize: 128
